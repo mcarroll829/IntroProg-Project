@@ -1,6 +1,5 @@
 <!doctype html!>
 <! -- JavaScript Adventure Game -->
-<! -- Meagan Carroll            -->
 <! -- ========================= -->
 
 <html>
@@ -9,17 +8,15 @@
  </head>
  
  <body>
-  <h1> Hello World </h1>
-  <script type="text/javascript">
-  /*
-  JavaScript Author: Meagan Carroll
-  Intro to Programming
-  JavaScript: Hello World
-  */
+  <h1> JavaScript Adventure Game </h1>
+  
+  <script>
+  
+  alert("Welcome to my page!");
 
- 
-  document.WriteIn ("Hello World"-<br>);
- 
+  document.writeln("Page Under Construction...<br>")
+  document.writeln("More to follow")
+  console.log("This is the console log");
   </script>
  
  </body>
