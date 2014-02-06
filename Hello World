@@ -1,0 +1,26 @@
+<!doctype html!>
+<! -- JavaScript Adventure Game -->
+<! -- ========================= -->
+
+<html>
+ <head>
+  <title> JavaScript Adventure Game </title> 
+ </head>
+ 
+ <body>
+  <h1> Hello World </h1>
+  <script type="text/javascript">
+  /*
+  JavaScript Author: Meagan Carroll
+  Intro to Programming
+  JavaScript: Hello World
+  */
+
+ 
+  document.WriteIn ("Hello World"-<br>);
+ 
+  </script>
+ 
+ </body>
+ 
+</html> 
